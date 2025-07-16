@@ -34,7 +34,7 @@
 
 ### 📂 Projects (Pinned Repos)
 Here are some of my favorite or ongoing projects:
-- 🔗 [Java Library Management System](https://github.com/yourusername/library-management-java)
+- 🔗 [Library Management System](https://github.com/yourusername/library-management-java)
 - 🔗 [Portfolio Website (HTML, CSS, JS)](https://github.com/yourusername/portfolio)
 - 🔗 [Python Data Analysis using Pandas](https://github.com/yourusername/data-analysis-python)
 
@@ -43,25 +43,25 @@ Here are some of my favorite or ongoing projects:
 ---
 
 ### 🏅 Certifications
-- 📜 [Programming in Java – NPTEL](https://nptel.ac.in/)
-- 📜 [Introduction to Programming in C – NPTEL](https://nptel.ac.in/)
-- 📜 [Problem Solving Through C – NPTEL](https://nptel.ac.in/)
-- 📜 [Python Basics Certificate – [Platform]](https://certificate-link.com)
+- 📜 [Programming in Java – NPTEL]
+- 📜 [Introduction to Programming in C – NPTEL]
+- 📜 [Problem Solving Through C – NPTEL]
+- 📜 [Python Basics Certificate – [Kodekloud]]
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muthoju-srujan&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthoju-srujan&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/muthoju-srujan-353521286/)
+- 📧 Email: srujanmuthoju@gmail.com
 
 ---
 
